@@ -96,6 +96,4 @@ private ActivityMainBinding binding;
         return super.onOptionsItemSelected(item);
     }
 
-
-
 }
